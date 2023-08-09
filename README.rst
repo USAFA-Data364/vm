@@ -4,9 +4,9 @@ VM Configuration
 
 This repository contains scripts to automate the configuration of a virtual
 machine (VM) with all software required for Data Sci 364: Data Acquisition and
-Management at the `US Air Force Academy`_.
+Management at the `United States Air Force Academy`_.
 
-.. _US Air Force Academy: https://www.usafa.edu/
+.. _United States Air Force Academy: https://www.usafa.edu/
 
 Usage
 =====
@@ -18,6 +18,6 @@ script installs required packages, configures services, and creates databases
 Notes
 =====
 
-The existing scripts target Ubuntu 18.04 LTS. In theory, they can be used for
+The existing scripts target Ubuntu 22.04 LTS. In theory, they can be used for
 any Debian-based Linux distribution, but several steps, such as patching the
 configuration of services, may have to be modified.
