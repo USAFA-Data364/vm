@@ -15,4 +15,4 @@ sudo systemctl enable mongod
 # start MongoDB
 sudo systemctl start mongod
 # ensure that the server is running
-systemctl status mongod
+systemctl status --no-pager mongod
