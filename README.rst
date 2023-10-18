@@ -3,7 +3,7 @@ VM Configuration
 ================
 
 This repository contains scripts to automate the configuration of a virtual
-machine (VM) with all software required for Data Sci 364: Data Acquisition and
+machine (VM) with all software required for Data 364: Data Acquisition and
 Management at the `United States Air Force Academy`_.
 
 .. _United States Air Force Academy: https://www.usafa.edu/
